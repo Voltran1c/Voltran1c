@@ -48,6 +48,7 @@ I am a Full Stack Developer with experience in developing websites and applicati
 </div>
 
 ---
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Voltran1c&theme=merko" alt="GitHub Streak" />
-<div/>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Voltran1c&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltran1c&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
