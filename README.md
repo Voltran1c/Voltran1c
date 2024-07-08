@@ -42,7 +42,9 @@ I am a Full Stack Developer with experience in developing websites and applicati
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  title="jira" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp;
-  <img src="https://store-images.s-microsoft.com/image/apps.47763.13959754522315136.87be3224-9693-4fd4-8cd4-af6362fb8d37.b3c24453-164b-4d03-b561-e77aec7c076a" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://store-images.s-microsoft.com/image/apps.47763.13959754522315136.87be3224-9693-4fd4-8cd4-af6362fb8d37.b3c24453-164b-4d03-b561-e77aec7c076a" title="miro" alt="miro" width="40" height="40"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:267/1*CalM6rOuHxReY6W-rE01lw.png" title="drawio" alt="drawio" width="40" height="40"/>&nbsp;
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4faa9d4c43f2c79f9bee4a0ac10bd9ec/excalidraw.png" title="excalidraw" alt="excalidraw" width="40" height="40"/>&nbsp;
 </div>
 
 ---
