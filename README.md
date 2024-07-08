@@ -3,10 +3,10 @@
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/watcharapong1996/" target="blank">
+  <a href="https://www.linkedin.com/in/watcharapong1996/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/pp.watcharapong/" target="blank">
+  <a href="https://www.instagram.com/pp.watcharapong/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Twitter Badge"/>
   </a><br/>
   <img src="https://komarev.com/ghpvc/?username=Voltran1c&style=for-the-badge&color=green" alt="profile count"/>
